@@ -68,7 +68,7 @@
     "gatsby-source-filesystem": "2.3.1",
     "gatsby-source-github": "0.0.2",
     "gatsby-source-typedoc": "1.4.0",
-    "gatsby-transformer-remark": "2.16.1",
+    "gatsby-transformer-remark": "5.25.1",
     "gatsby-transformer-sharp": "2.5.2",
     "prismjs": "1.23.0",
     "react": "16.13.1",
